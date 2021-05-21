@@ -2,7 +2,7 @@ package pruebas;
 
 public class Rectangulo extends Figura {
 
-    private double base, altura;
+    public double base, altura;
 
     Rectangulo(double base, double altura) {
         this.base = base;

@@ -2,7 +2,7 @@ package pruebas;
 
 public class Circulo extends Figura{
 
-    private double radio;
+    public double radio;
 
     Circulo(double r) {
         this.radio = r;
